@@ -1,3 +1,38 @@
+.masthead-intro,
+.masthead-heading {
+    text-align: center;
+}
+
+.masthead {
+    padding: 6em 0;
+}
+
+.masthead-heading {
+    margin-bottom: 0.1em;
+}
+
+.masthead-intro {
+    margin-top: -0.2em;
+}
+.info h1 {
+    text-align: center;
+}
+.info {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    padding-left: 30px;
+    box-sizing: border-box;
+    border-radius: 25px;
+}
+section:hover {
+    background-color: darkgrey;
+}
+.info-container{
+    font-synthesis: ;
+    text-align:center;
+}
 body {
   background-attachment: scroll;
   background-clip: border-box;
